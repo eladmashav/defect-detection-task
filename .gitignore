@@ -1,0 +1,12 @@
+# Editor settings specific to this computer
+.vscode/
+
+# Code that is not part of the solution
+on_hold/
+
+# Task data (images, train.csv, test.csv) - belongs to the company, not published
+task_data/
+
+# Python cache
+__pycache__/
+*.pyc
